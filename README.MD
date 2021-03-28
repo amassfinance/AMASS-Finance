@@ -1,3 +1,3 @@
 # Amass
 
-fully decentralized self-stabilizing dollar on zilliqa.
+Fully Decentralized Self-Stabilizing Singaporean Dollar on Zilliqa.
